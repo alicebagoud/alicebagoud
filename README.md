@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on html, css and javascript
 - 📫 How to reach me: alicebagoud96@gmail.com or on instagram as alicebagoud96 :) 
 
+--> To see more of my work, click here: https://codepen.io/aliceb96
+
 <!---
 alicebagoud/alicebagoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
