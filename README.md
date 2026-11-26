@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @alicebagoud
-- 👀 I’m interested in web developpment, trading and others!
-- 🌱 I’m currently learning how to use frameworks and working on a design of a project
-- 💞️ I’m looking to collaborate on html, css(sass) and javascript and frameworks (vue.js, react)
-- 📫 How to reach me: alicebagoud96@gmail.com
+# Hola, soy Alice Bagoud 👋
 
---> To see more of my work, click here: https://codepen.io/aliceb96
+Fundadora de **AB Web Studio**. Diseño y desarrollo **landing pages interactivas**, experiencias web y catálogos digitales enfocados en estética, fluidez y conversión.
 
-<!---
-alicebagoud/alicebagoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tecnologías y herramientas
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Estilos y UI:** Tailwind CSS, animaciones scroll & efectos 3D, Figma
+- **Frameworks y datos:** React, Supabase
+- **Despliegue:** Git, GitHub, Netlify
+
+### 🚀 Proyectos destacados
+- **Presencia Macramé** — Catálogo interactivo con filtros, favoritos, reseñas conectadas a Supabase y pedido directo por WhatsApp.
+- **Experiencias y campañas web** — Landing pages con transiciones dinámicas, calculadoras interactivas y diseño responsive.
+
+### 📫 Contacto
+- **Portafolio:** [AB Web Studio](https://tu-portafolio.netlify.app)
+- **Workana:** [Ver perfil](https://www.workana.com/freelancer/13a1b29e380c619f3eb50ab0fe278d6d)
