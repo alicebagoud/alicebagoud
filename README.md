@@ -13,5 +13,5 @@ Fundadora de **AB Web Studio**. Diseño y desarrollo **landing pages interactiva
 - **Experiencias y campañas web** — Landing pages con transiciones dinámicas, calculadoras interactivas y diseño responsive.
 
 ### 📫 Contacto
-- **Portafolio:** [AB Web Studio](https://tu-portafolio.netlify.app)
+- **Portafolio:** [AB Web Studio](https://ab-web-studio.netlify.app)
 - **Workana:** [Ver perfil](https://www.workana.com/freelancer/13a1b29e380c619f3eb50ab0fe278d6d)
